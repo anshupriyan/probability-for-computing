@@ -55,6 +55,7 @@ Use this checklist to track your understanding of each topic. Mark items with `[
 
 ### 📚 Course Resources
 - 📄 [[Syllabus Guidelines - Index|Syllabus & Textbook Reference Map]]
+- 🧮 [[PYQ Formula Sheet and Concept Guide|PYQ Formula Sheet & Concept Guide]]
 
 ---
 
