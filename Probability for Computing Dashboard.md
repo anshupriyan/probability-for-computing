@@ -24,11 +24,11 @@ Use this checklist to track your understanding of each topic. Mark items with `[
 
 ### 🟦 Unit 2: Random Variables
 - [ ] **Foundations**: Random Variables, Probability Mass/Density Functions (PMF/PDF), Cumulative Distribution Functions (CDF).
-- [ ] **Discrete Random Variables**: Bernoulli, Binomial, Poisson, Multinomial, and Geometric distributions.
-- [ ] **Continuous Random Variables**: Uniform, Exponential, and Normal distributions.
-- [ ] **Expectation & Variance**: Expected value of random variables, expectation of functions of random variables, and variance.
+- [ ] **Discrete Random Variables**: Bernoulli, Binomial, Poisson, Multinomial, Geometric, **Negative Binomial, and Hypergeometric** distributions.
+- [ ] **Continuous Random Variables**: Uniform, Exponential, Normal, **Beta, and Gamma** distributions.
+- [ ] **Expectation, Variance & Moments**: Expected value, expectation of functions, variance, **moments, and Moment Generating Functions (MGFs)**.
 - [ ] **Inequalities**: Markov inequality and Chebyshev's inequality.
-- [ ] **Limit Theorems**: Weak and Strong Laws of Large Numbers, Central Limit Theorem (CLT).
+- [ ] **Limit Theorems**: Weak and Strong Laws of Large Numbers, Central Limit Theorem (CLT - **Lindeberg-Levy & De-Moivre Laplace**).
 
 ### 🟨 Unit 3: Joint Distributions
 - [ ] **Joint Variables**: Jointly distributed random variables and joint distribution functions.
